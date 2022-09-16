@@ -1,0 +1,4 @@
+Este es el enlace para el script y la guia (https://airbnb.io/lottie/#/web)
+
+pagina de animacions en .json es (LttieFiles)
+
